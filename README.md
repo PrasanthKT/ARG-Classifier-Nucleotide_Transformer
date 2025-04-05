@@ -26,7 +26,7 @@ pip install transformers datasets scikit-learn pandas numpy torch matplotlib sea
 ### Download the model
 The fine-tuned ARG Classifier model (based on the Nucleotide Transformer) is hosted via Google Drive due to its large file size (~1.9GB), which exceeds GitHub’s file upload limit.
 
-Download the model folder (arg_classifier, )
+Download the model folder (arg_classifier, https://drive.google.com/drive/folders/1CR0PMbnJ1DyLB7ej9gtPYOSTtkBRHn7A?usp=share_link)
 After downloading, extract the folder and place it in the root directory of this repository.
 
 ```
