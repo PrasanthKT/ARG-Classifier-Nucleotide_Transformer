@@ -63,3 +63,6 @@ with torch.no_grad():
 print(f"Predicted Label: {'Resistant' if prediction == 1 else 'Non-Resistant'}")
 ```
 ### Output
+```
+Predicted Label: Resistant
+```
