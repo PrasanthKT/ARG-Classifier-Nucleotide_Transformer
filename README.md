@@ -3,6 +3,10 @@
 ### Title
 Classification of Antibiotic Resistance Gene Sequences using Nucleotide Transformer
 
+### Authors
+1. Yesasvi Sai Nandigam
+2. Prasanth Kumar Thuthika
+
 ### Objective
 This project aims to fine-tune the Nucleotide Transformer model for the classification of antibiotic resistance genes (ARGs). By leveraging a pre-trained transformer architecture on labeled genomic data (ARGs, non-ARGs, and synthetic sequences), the model is optimized to accurately identify ARGs across diverse bacterial species, enabling faster and more reliable antimicrobial resistance prediction.
 
